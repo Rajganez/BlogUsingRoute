@@ -28,7 +28,7 @@ const AllContents = () => {
                   src={inputs.img}
                   style={{ objectFit: "contain" }}
                   className="card-img-top"
-                  alt="topic"
+                  alt={inputs.topic}
                 />
                 <div className="card-body">
                   <h5 className="card-title">{inputs.topic}</h5>

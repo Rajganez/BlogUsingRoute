@@ -17,7 +17,7 @@ const DevOps = () => {
                   src={Dev.img}
                   style={{ objectFit: "contain" }}
                   className="card-img-top"
-                  alt={blog.topic}
+                  alt={Dev.topic}
                 />
                 <div className="card-body">
                   <h5 className="card-title">{Dev.topic}</h5>

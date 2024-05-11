@@ -19,7 +19,7 @@ const Fsd = () => {
                   src={fsd.img}
                   style={{ objectFit: "contain" }}
                   className="card-img-top"
-                  alt={blog.topic}
+                  alt={fsd.topic}
                 />
                 <div className="card-body">
                   <h5 className="card-title">{fsd.topic}</h5>

@@ -17,7 +17,7 @@ const AiAndMl = () => {
                   src={ai.img}
                   style={{ objectFit: "contain" }}
                   className="card-img-top"
-                  alt={blog.topic}
+                  alt={ai.topic}
                 />
                 <div className="card-body">
                   <h5 className="card-title">{ai.topic}</h5>
