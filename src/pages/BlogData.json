@@ -1,0 +1,82 @@
+[
+  {
+    "Fullstatck": [
+      {
+        "id": "1",
+        "topic": "Best Full Stack Development Ideas",
+        "img": "https://www.guvi.in/blog/wp-content/uploads/2023/07/person-front-computer-working-html.jpg",
+        "created": "Isha Sharma",
+        "date": "24 Mar, 2024",
+        "Minread": "4 min Read"
+      },
+      {
+        "id": "2",
+        "topic": "How Long it takes to be Full Stack Developer",
+        "img": "https://www.guvi.in/blog/wp-content/uploads/2023/07/html-css-collage-concept-with-person.jpg",
+        "created": "Meghana",
+        "date": "17 Feb, 2024",
+        "Minread": "3 min Read"
+      },
+      {
+        "id": "3",
+        "topic": "Essential Prequites learning ReactJS",
+        "img": "https://www.guvi.in/blog/wp-content/uploads/2023/03/1.jpg",
+        "created": "RamKumar",
+        "date": "4 Mar, 2024",
+        "Minread": "3 min Read"
+      }
+    ],
+    "AIandMl": [
+      {
+        "id": "4",
+        "topic": "The Influenses of Chatbot",
+        "img": "https://www.guvi.in/blog/wp-content/uploads/2024/03/Feature-2.png",
+        "created": "Meghana",
+        "date": "10 Apr, 2024",
+        "Minread": "5 min Read"
+      },
+      {
+        "id": "5",
+        "topic": "Apple Vision Pro: A deep Dive",
+        "img": "https://www.guvi.in/blog/wp-content/uploads/2024/04/Feature-image-1.png",
+        "created": "Lukesh S",
+        "date": "2 May, 2024",
+        "Minread": "4 min Read"
+      },
+      {
+        "id": "6",
+        "topic": "Retreivel Augmented Generation: Important things to know",
+        "img": "https://www.guvi.in/blog/wp-content/uploads/2024/04/Feature-image-1.png",
+        "created": "Lukesh",
+        "date": "9 Mar, 2024",
+        "Minread": "6 min Read"
+      }
+    ],
+    "DevOps": [
+      {
+        "id": "7",
+        "topic": "10 Best Idead forDevOps Project",
+        "img": "https://www.guvi.in/blog/wp-content/uploads/2023/07/feature-image-Best-YouTube-Channels-to-Learn-DevOps-from-Scratch.jpg",
+        "created": "Srinithi shankar",
+        "date": "18 Apr, 2024",
+        "Minread": "4 min Read"
+      },
+      {
+        "id": "8",
+        "topic": "How long it takes to learn DevOps",
+        "img": "https://www.guvi.in/blog/wp-content/uploads/2023/11/Top-10-Non-Coding-Jobs-in-DevOps.png",
+        "created": "Lukesh S",
+        "date": "15 Jan, 2024",
+        "Minread": "6 min Read"
+      },
+      {
+        "id": "9",
+        "topic": "Top high paying Non-IT Jobs for DevOps",
+        "img": "https://www.guvi.in/blog/wp-content/uploads/2023/07/feature-image-DevOps-Online-Courses-for-Beginners.jpg",
+        "created": "Bhardwaj",
+        "date": "11 May, 2024",
+        "Minread": "7 min Read"
+      }
+    ]
+  }
+]
