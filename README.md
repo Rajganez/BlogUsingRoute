@@ -1,5 +1,7 @@
 ***This is a Blog Page Using Routing Concept***
+
 **All Data are retreived dynamically from "BlogData.JSON" file**
+
 **This is a Responsive WebPage with the reusable componenets**
 
 
@@ -7,7 +9,7 @@
 React + Vite + Bootstrap
 
 *To run locally, save the file in your Local Storage*
->npm install
+>npm install,
 >npm run dev
 
 To View,
