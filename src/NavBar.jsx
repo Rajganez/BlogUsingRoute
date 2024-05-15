@@ -1,4 +1,4 @@
-import { Link } from "react-router-dom";
+import { NavLink } from "react-router-dom";
 const NavBar = () => {
   return (
     <>
@@ -6,29 +6,58 @@ const NavBar = () => {
         <div className="row ">
           <ul className="nav justify-content-center flex-sm-row">
             <li className="nav-item">
-              <Link className="nav-link active" aria-current="page" to="/all">
+              <NavLink
+                className="nav-link active"
+                aria-current="page"
+                to="/all"
+                style={({ isActive }) => ({
+                  color: isActive
+                      ? "#B100B1"
+                      : "#6597E6",
+              })}
+              >
                 All
-              </Link>
+              </NavLink>
             </li>
             <li className="nav-item">
-              <Link className="nav-link" to="/fsd">
+              <NavLink className="nav-link" to="/fsd"
+               style={({ isActive }) => ({
+                color: isActive
+                    ? "#B100B1"
+                    : "#6597E6",
+            })}>
                 Full Stack Development
-              </Link>
+              </NavLink>
             </li>
             <li className="nav-item">
-              <Link className="nav-link" to="/devops">
+              <NavLink className="nav-link" to="/devops"
+               style={({ isActive }) => ({
+                color: isActive
+                    ? "#B100B1"
+                    : "#6597E6",
+            })}>
                 DevOps
-              </Link>
+              </NavLink>
             </li>
             <li className="nav-item">
-              <Link className="nav-link" to="/aiandml">
+              <NavLink className="nav-link" to="/aiandml"
+               style={({ isActive }) => ({
+                color: isActive
+                    ? "#B100B1"
+                    : "#6597E6",
+            })}>
                 AI and ML
-              </Link>
+              </NavLink>
             </li>
             <li className="nav-item">
-              <Link className="nav-link" to="/Career">
+              <NavLink className="nav-link" to="/Career"
+               style={({ isActive }) => ({
+                color: isActive
+                    ? "#B100B1"
+                    : "#6597E6",
+            })}>
                 Career
-              </Link>
+              </NavLink>
             </li>
           </ul>
         </div>
